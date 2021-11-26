@@ -1,0 +1,4 @@
+export const SET_TOKEN = `SET_TOKEN`;
+export const SESSION_EXPIRED = `SESSION_EXPIRED`;
+export const SIGN_OUT_SUCCESS = `SIGN_OUT_SUCCESS`;
+export const SIGN_OUT_REQUEST = `SIGN_OUT_REQUEST`;
